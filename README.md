@@ -1,6 +1,6 @@
 # Claire Louges
 
-![Photo Claire Louges](C:/Users/claire.louges/Git/Photo CV)
+![Photo CV](C:/Users/claire.louges/Git/Photo CV)
 
 Ce dépôt destiné à la classe GitHub Cours-R contient des ressources pour les étudiants:
 
