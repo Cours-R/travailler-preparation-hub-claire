@@ -1,6 +1,6 @@
-# Introduction du cours Travailler avec R
+# Claire Louges
 
-![Logo EcoFoG](images/EcoFoG2020.png)
+![Photo Claire Louges](C:/Users/claire.louges/Desktop/Photo CV.jpg)
 
 Ce dépôt destiné à la classe GitHub Cours-R contient des ressources pour les étudiants:
 
