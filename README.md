@@ -1,6 +1,10 @@
 # Claire Louges
 
+<<<<<<< HEAD
 ![Photo CV](images/Photo CV.jpg)
+=======
+![Photo Claire](images/PhotoCV.jpg)
+>>>>>>> 5498ef5b64e07cc5c0ec58c1b0fe69e6741bb902
 
 Ce dépôt destiné à la classe GitHub Cours-R contient des ressources pour les étudiants:
 
